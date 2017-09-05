@@ -1,0 +1,56 @@
+body {
+  background-color: #ffffb3;
+  font-family: 'Quicksand', sans-serif;
+}
+
+blockquote {
+  padding: 10px;
+}
+
+h1 {
+  font-style: bold;
+  margin-left: 5px;
+}
+
+.jumbotron {
+  background-image: url("http://3.bp.blogspot.com/-dffPAdZFyHE/Uzqslyu7tFI/AAAAAAABXmM/AE3AXRnq_SY/s1600/Psych.jpg");
+  background-size: cover;
+  background-position: left top;
+  background-repeat: no-repeat;
+  min-height: 250px;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.gallery {
+  margin: 5px;
+  float: left;
+}
+
+.gallery img {
+  width: 80% static;
+  height: auto;
+  max-height: 200px;
+}
+
+.gallery img:hover {
+  border: 1px solid #034BA2;
+}
+
+.caption {
+  padding: 2px;
+  text-align: left;
+  color: #002351;
+}
+
+.moreInfoLinks {
+  size: 2em;
+  color: black;
+ }
+
+ .tvShow {
+ margin-left: 5px;
+ }
+
+ .theMovie {
+  margin-left: 5px;
+ }
