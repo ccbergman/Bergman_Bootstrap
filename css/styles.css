@@ -1,6 +1,7 @@
 body {
   background-color: #ffffb3;
   font-family: 'Quicksand', sans-serif;
+  padding-bottom: 20px;
 }
 
 blockquote {
@@ -54,3 +55,4 @@ h1 {
  .theMovie {
   margin-left: 5px;
  }
+
