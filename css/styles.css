@@ -73,3 +73,9 @@ p {
   margin: 0 auto 0 auto;
   padding-bottom: 50px;
 }
+
+.col-6 {
+  min-width: 200px;
+  margin: 0 auto 0 auto;
+  padding-bottom: 50px;
+}
