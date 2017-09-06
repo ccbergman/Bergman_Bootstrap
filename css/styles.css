@@ -12,6 +12,9 @@ h1 {
   font-style: bold;
   margin-left: 5px;
 }
+p {
+  font-size: 1.2em;
+}
 
 .jumbotron {
   background-image: url("http://3.bp.blogspot.com/-dffPAdZFyHE/Uzqslyu7tFI/AAAAAAABXmM/AE3AXRnq_SY/s1600/Psych.jpg");
@@ -38,13 +41,13 @@ h1 {
 }
 
 .caption {
-  padding: 2px;
+  padding-bottom: 1px;
   text-align: center;
   color: #002351;
 }
 
 .moreInfoLinks {
-  size: 2em;
+  font-size: 1.2em;
   color: black;
  }
 
@@ -56,3 +59,17 @@ h1 {
   margin-left: 5px;
  }
 
+ 
+.nav-link {
+  font-size: 1.3em;
+}
+
+.glyphicon {
+  font-size: 1.3em;
+}
+
+.col-4 {
+  min-width: 600px;
+  margin: 0 auto 0 auto;
+  padding-bottom: 50px;
+}
