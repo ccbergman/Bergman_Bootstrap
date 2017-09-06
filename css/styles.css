@@ -4,16 +4,16 @@ body {
   padding-bottom: 20px;
 }
 
-blockquote {
-  padding: 10px;
-}
-
 h1 {
   font-style: bold;
   margin-left: 5px;
 }
 p {
   font-size: 1.2em;
+}
+
+blockquote {
+  padding: 10px;
 }
 
 .jumbotron {
